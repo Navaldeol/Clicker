@@ -8,7 +8,7 @@ export default class ClickerApp extends Component {
         super();
 
         this.state = {
-            title: 'React Clicker'
+            title: 'Clicker'
         };
     }
 
