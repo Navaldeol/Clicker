@@ -1,5 +1,5 @@
 {
-  "name": "react-clicker",
+  "name": "Counter",
   "version": "1.0.0",
   "description": "A simple app that allows one to increase or decrease a counter",
   "scripts": {
